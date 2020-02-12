@@ -55,7 +55,7 @@ namespace Base_Form_Assignment4
 
                     foreach (var item in list)
                     {
-                        listBox.Items.Add(string.Format(" ", list));
+                        listBox.Items.Add(string.Format(" ", item));
                     }
                 }
 
